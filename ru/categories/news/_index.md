@@ -2,5 +2,5 @@
 title: 'Новости'
 cover:
   icon:
-    id: 'fas fa-newspaper'
+    id: 'fas fa-info'
 ---
