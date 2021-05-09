@@ -5,9 +5,9 @@ title: 'Donate'
 {{< form-donate
 wallet="410012478387285"
 paypal="x6174"
-patreon="KitsuneSolar"
-liberapay="KitsuneSolar"
-ko-fi="KitsuneSolar"
+patreon="LinuxPet"
+liberapay="LinuxPet"
+ko-fi="LinuxPet"
 usd="4584 4328 1371 3790"
 eur="4584 4328 1893 8194"
 rub="4584 4328 1325 5511"
