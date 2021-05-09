@@ -4,7 +4,7 @@ description: ''
 images:
   - 'https://images.unsplash.com/photo-1581043144435-ebcd25885809'
 categories:
-  - 'News'
+  - 'Meta'
 tags:
   - 'misc'
 authors:
