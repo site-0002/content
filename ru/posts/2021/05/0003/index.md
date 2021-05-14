@@ -2,7 +2,10 @@
 title: 'Перезагрузка и выключение Linux'
 description: ''
 images:
-  - 'https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a'
+  - 'https://images.unsplash.com/photo-1611780427130-996d9882dc41'
+cover:
+  image:
+    crop: 'top'
 categories:
   - 'Terminal'
 tags:
@@ -38,6 +41,8 @@ draft: 1
 {{< alert "success" >}}
 Команда `halt` в современных ОС полностью прекращает работу системы. На системах с **systemd** команда представляет собой символьную ссылку на утилиту `systemctl` и является устаревшей.
 {{< /alert >}}
+
+Предпочтительнее использовать команду `shutdown`, о которой я расскажу ниже.
 
 #### Синтаксис
 
@@ -96,3 +101,5 @@ root@localhost ~ # shutdown -r now
 ```
 root@localhost ~ # shutdown -h
 ```
+
+На этом всё, ничего сложного нет. :smile:
