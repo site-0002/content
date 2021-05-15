@@ -20,7 +20,7 @@ hash: '4a3b0a310d3d7a9bec077e3b4f80669e95545d6f'
 uuid: '4a3b0a31-0d3d-5a9b-8c07-7e3b4f80669e'
 slug: '4a3b0a31-0d3d-5a9b-8c07-7e3b4f80669e'
 
-comments: 0
+comments: 1
 feedback: 1
 draft: 0
 ---

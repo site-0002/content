@@ -25,7 +25,7 @@ hash: '86db7f3a17cea02bb21d337c3bba5d58e63281ff'
 uuid: '86db7f3a-17ce-502b-b21d-337c3bba5d58'
 slug: '86db7f3a-17ce-502b-b21d-337c3bba5d58'
 
-comments: 0
+comments: 1
 feedback: 1
 draft: 0
 ---
