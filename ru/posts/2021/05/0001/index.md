@@ -55,7 +55,7 @@ draft: 0
 
 #### Пример использования
 
-```txt
+```text
 user@localhost ~ % lscpu
 
 Architecture:                    x86_64
@@ -89,7 +89,7 @@ L3 cache:                        12 MiB
 
 #### Пример использования
 
-```txt
+```text
 user@localhost ~ % lspci
 
 00:00.0 Host bridge: Intel Corporation Comet Lake-S 6c Host Bridge/DRAM Controller (rev 05)
@@ -117,7 +117,7 @@ user@localhost ~ % lspci
 
 #### Пример использования
 
-```
+```text
 user@localhost ~ % lsblk
 
 NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
@@ -144,7 +144,7 @@ zram0  252:0    0     4G  0 disk [SWAP]
 
 #### Пример использования
 
-```
+```text
 user@localhost ~ % lsmod
 
 Module                  Size  Used by
