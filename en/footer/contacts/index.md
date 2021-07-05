@@ -3,5 +3,5 @@ title: 'Contacts'
 weight: '3'
 ---
 
-- mail@kitsune.solar
+- kitsune.solar@gmail.com
 - [Twitter](https://twitter.com/LinuxPet)
