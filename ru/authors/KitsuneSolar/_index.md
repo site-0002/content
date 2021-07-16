@@ -7,7 +7,7 @@ images:
 author:
   user: 'KitsuneSolar'
   contacts:
-    website: 'https://kitsune.solar/'
+    website: 'https://kitsunesolar.com/'
     email: 'mail@kitsune.solar'
     social:
       - 'https://twitter.com/KitsuneSolar'
